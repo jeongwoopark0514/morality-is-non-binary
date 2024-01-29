@@ -1,0 +1,10 @@
+scipy==1.5.4
+torch==1.13.0
+simcse
+pandas==1.4.4
+twython
+tqdm
+spacy
+ekphrasis
+emoji
+beautifulsoup4
